@@ -1,5 +1,3 @@
-# raupjc-hw0
-
 #Pitanje 1:
 Nakon što smo dodali class library kao referencu, u folderu Bin/Debug pojavile su se datoteke ClassLibrary1.dll i ClassLibrary1.pdb.
 Nakon uklanjanja .dll class librarya te prilikom pokretanja aplikacie javlja se iznimka:
